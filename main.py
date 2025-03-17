@@ -19,7 +19,7 @@ def save_data(df1, df2):
     # EXAMPLE
     # Save the data to a csv file
     # You can change function
-    # BUT you should keep the file name as "{STUDENT_ID}_simple_seq.answer.csv"
+    # BUT you should keep the file name as "{STUDENT_ID}_simple_seq.p#.answer.csv"
     df1.to_csv(f'{STUDENT_ID}_simple_seq.p1.answer.csv')
     df2.to_csv(f'{STUDENT_ID}_simple_seq.p2.answer.csv')
 
