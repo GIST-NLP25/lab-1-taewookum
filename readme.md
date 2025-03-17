@@ -88,4 +88,4 @@ If you show 100% accuracy based on the test set, you pass.
 
 ## Result
 
-For scoring, please save the data obtained above under the name 'student ID_name_simple_seq.answer.csv' in the same directory as the current file (directory where the .md file is located).
+For scoring, please save the data obtained above under the name 'student ID_name_simple_seq.p#.answer.csv' in the same directory as the current file (directory where the .md file is located).
